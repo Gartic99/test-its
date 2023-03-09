@@ -1,11 +1,10 @@
 
-""" import agile from laziodigital.its """
+#import agile from laziodigital.its
+import webbrowser
 
-""" 
-method = agile.getMethod("Scrum")
+#method = agile.getMethod("Scrum")
 
-method.weeks = 4 
-"""
+#method.weeks = 4 
 
 print("hello its i'm a developer")
 
